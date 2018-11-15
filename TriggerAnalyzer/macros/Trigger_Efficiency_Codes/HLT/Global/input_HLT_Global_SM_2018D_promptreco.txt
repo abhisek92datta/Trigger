@@ -1,0 +1,6 @@
+4
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/SingleMuon/trigger_data_2018_SingleMuon_2018D_v2_promptreco/181009_082731/0000/trigger_ntuple_*.root
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/SingleMuon/trigger_data_2018_SingleMuon_2018D_v2_promptreco/181009_082731/0001/trigger_ntuple_*.root
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/SingleMuon/trigger_data_2018_SingleMuon_2018D_v2_promptreco/181009_082731/0002/trigger_ntuple_*.root
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/SingleMuon/trigger_data_2018_SingleMuon_2018D_v2_promptreco/181009_082731/0003/trigger_ntuple_*.root
+Efficiency_Trigger_histos_HLT_Global_SM_2018D_Promptreco.root

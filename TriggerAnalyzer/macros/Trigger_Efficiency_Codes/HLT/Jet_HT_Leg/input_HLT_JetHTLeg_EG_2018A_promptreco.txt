@@ -1,0 +1,5 @@
+3
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/EGamma/trigger_data_2018_EGamma_2018A_v1_promptreco/181009_082204/0000/trigger_ntuple_*.root
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/EGamma/trigger_data_2018_EGamma_2018A_v1_promptreco/181009_082204/0001/trigger_ntuple_*.root
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/EGamma/trigger_data_2018_EGamma_2018A_v3_promptreco/181009_082224/0000/trigger_ntuple_*.root
+Efficiency_Trigger_histos_HLT_JetHTLeg_EG_2018A_Promptreco.root

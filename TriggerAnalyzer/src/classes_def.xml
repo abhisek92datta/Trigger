@@ -1,0 +1,4 @@
+<lcgdict>
+    <class name="triggerStudyEventVars" />
+    <class name="std::vector<triggerStudyEventVars>" />
+</lcgdict>

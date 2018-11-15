@@ -1,0 +1,5 @@
+3
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/JetHT/trigger_data_2018_JetHT_2018C_v1_promptreco/181009_082422/0000/trigger_ntuple_*.root
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/JetHT/trigger_data_2018_JetHT_2018C_v2_promptreco/181009_082430/0000/trigger_ntuple_*.root
+/eos/uscms/store/user/adatta/Trigger_2018/Data_Prompt_Reco_2018/JetHT/trigger_data_2018_JetHT_2018C_v3_promptreco/181009_082438/0000/trigger_ntuple_*.root
+Efficiency_Trigger_histos_HLT_EleLeg_HT_2018C_Promptreco.root
